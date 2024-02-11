@@ -1,1 +1,1 @@
-I've purchased 'ตะลุยโจทย์ Python 500 ข้อ พร้อมเฉลยอย่างละเอียด' by Tautology, inspired by Krin Chinprasatsak. Currently, I'm actively practicing the Python problems, gearing up for my upcoming programming class at Chulalongkorn University, where I aim to excel in the test.
+I've purchased 'ตะลุยโจทย์ Python 500 ข้อ พร้อมเฉลยอย่างละเอียด' by Tautology, inspired by Krin Chinprasatsak learning path. Currently, I'm actively practicing the Python problems, gearing up for my upcoming programming class at Chulalongkorn University, where I aim to excel in the test.
